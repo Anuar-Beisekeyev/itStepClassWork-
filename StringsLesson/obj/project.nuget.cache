@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "enw1ZouvgTmSEnZYKg8jY4Kz4botxtktmM5sbUrdoHEI2xej6nFDG+Jzy7XbQEVttI6ts14/CR0yGtgi3KTyWQ==",
+  "success": true,
+  "projectFilePath": "G:\\Проекты\\StringsLesson\\StringsLesson\\StringsLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anuar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

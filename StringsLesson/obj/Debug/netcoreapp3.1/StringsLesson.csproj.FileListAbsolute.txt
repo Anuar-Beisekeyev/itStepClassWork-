@@ -1,0 +1,26 @@
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.exe
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.deps.json
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.runtimeconfig.json
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.runtimeconfig.dev.json
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.dll
+G:\Проекты visual studio\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.pdb
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.csprojAssemblyReference.cache
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.AssemblyInfoInputs.cache
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.AssemblyInfo.cs
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.csproj.CoreCompileInputs.cache
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.dll
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.pdb
+G:\Проекты visual studio\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.genruntimeconfig.cache
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.exe
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.deps.json
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.runtimeconfig.json
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.runtimeconfig.dev.json
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.dll
+G:\Проекты\StringsLesson\StringsLesson\bin\Debug\netcoreapp3.1\StringsLesson.pdb
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.csprojAssemblyReference.cache
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.AssemblyInfoInputs.cache
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.AssemblyInfo.cs
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.dll
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.pdb
+G:\Проекты\StringsLesson\StringsLesson\obj\Debug\netcoreapp3.1\StringsLesson.genruntimeconfig.cache
